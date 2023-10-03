@@ -1,5 +1,5 @@
 # FuelCalculator
-This projects main goal was to understand .NET and Visual Studio better.
+This projects main goal was to understand `.NET` and `Visual Studio` better.
 With this app it is easier to manage many vehicles and costs to maintain them. Price is being provided by user and saved. Then many vehicles can be added with different type of fuel.
 
 ## Features
